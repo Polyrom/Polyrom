@@ -6,5 +6,3 @@
 🌞 Looking for my first job in IT  
 🎸 Excited to build projects with Django  
 📫 Drop me a line: t.me/alropo | roman61394@gmail.com
-
-🌄 Based in Yerevan, Armenia
