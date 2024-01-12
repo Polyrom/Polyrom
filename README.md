@@ -1,6 +1,6 @@
-👋 Hi there!  
-💁 I'm Roman 
+Hi! I'm Roman.
 
-🐍 Backend Python Developer  
- λ Neophyte Clojurian
-📫 Drop me a line: t.me/alropo
+𓆙 Backend Pythonista by day.    
+λ &nbsp;&nbsp; Neophyte Clojurian by night.
+
+This profile is generally a drop-all experimental space for me.
