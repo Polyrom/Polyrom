@@ -2,5 +2,5 @@
 💁 I'm Roman 
 
 🐍 Backend Python Developer  
-🔭 Currently learning Golang and basically anything my eyes land on  
-📫 Drop me a line: t.me/alropo | roman61394@gmail.com
+ λ Neophyte Clojurian
+📫 Drop me a line: t.me/alropo
